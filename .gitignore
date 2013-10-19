@@ -19,3 +19,5 @@ build/
 # Eclipse generated files/folders
 .metadata/
 .settings/
+RemoteSystemsTempFiles/
+Servers/
